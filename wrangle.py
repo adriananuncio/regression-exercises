@@ -133,7 +133,7 @@ def get_box(df):
     
     plt.show()
     
-    def prep_zillow(df):
+    def prepare_zillow(df):
         ''' Prepare zillow data for exploration'''
 
         # remove outliers
